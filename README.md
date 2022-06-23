@@ -5,4 +5,4 @@ The application is very simple, it has 2 fields used to input the numbers, 4 but
 
 Here you can see a photo of the view:
 
-![alt text](https://github.com/Steefy17/SwiftProgettiXcode/blob/main/Operators.png){ width=50% }
+![alt text](https://github.com/Steefy17/SwiftProgettiXcode/blob/main/Operators.png =100x20)
